@@ -2,6 +2,9 @@
 ## Mental Health
 You can do good research if you first do self-care mentally and physically. There are a lot of suggestions out there, but some of the interesting ones for me are listed below:
 + A library of several brochures about life, social, and emotional adjustment during PhD life by HKUST Counselling and Wellness Center, available [here](https://counsel.hkust.edu.hk/page.php?section=Resources&subsection=32&anchor=selfhelplibrary).
++ [PhD Burnout: Managing Energy, Stress, Anxiety & Your Mental Health](https://www.thesavvyscientist.com/phd-burnout/), by Jeff.
++ [Post-PhD depression](https://researchwhisperer.org/2023/06/20/post-phd-depression/).
++ [Managing your Mental Health during your PhD](https://link.springer.com/book/10.1007/978-3-031-14194-2), by Zoë J. Ayres.
 + [How to be immune against narcissists](https://hsps.ir/%D8%AF%D9%88-%D9%88%DB%8C%DA%98%DA%AF%DB%8C-%DA%A9%D9%87-%D9%85%DB%8C%E2%80%8C%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B-%D8%A2%D8%AF%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C/), by Alicia Boir.
 ## Great Guides to Do Research
 + [How to do good research](https://www.site.uottawa.ca/~bochmann/Projects/how-to-do-good-research/index.html) by Gregor v. Bochmann.
